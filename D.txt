@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Statement: the sun rise in the east[local]
+=======
+The earth is revolving around the sun[9.30 AM]
+>>>>>>> 436df29817d714c6de05783d76d75eb9cad5b1e2
